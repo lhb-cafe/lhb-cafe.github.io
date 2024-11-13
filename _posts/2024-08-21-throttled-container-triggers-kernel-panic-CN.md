@@ -5,7 +5,7 @@ categories:
 tags:
   - kernel: locking
   - kernel: sched
-hidden = true
+hidden: true
 ---
 
 ## 背景
